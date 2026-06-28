@@ -24,13 +24,11 @@ An open-loop Continuous Conduction Mode (CCM) buck converter designed and simula
 
 
 
-
-
 \## Schematic
 
 
 
-!\[Schematic](images/schematic.png)
+!\[Schematic](images/schematics.png)
 
 
 
